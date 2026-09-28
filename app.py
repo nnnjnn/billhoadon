@@ -6,7 +6,7 @@ import pandas as pd
 import streamlit as st
 from sqlalchemy import create_engine, text
 from sqlalchemy.engine import URL
-
+st.image("images.jpg")
 # ==============================================================================
 # CẤU HÌNH STREAMLIT
 # ==============================================================================
